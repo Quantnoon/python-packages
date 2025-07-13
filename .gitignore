@@ -1,0 +1,6 @@
+.idea
+.venv
+quantnoon_signal.egg-info
+.env
+__pycache__
+test_package.py

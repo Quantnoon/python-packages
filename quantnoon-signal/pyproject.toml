@@ -1,0 +1,12 @@
+[project]
+name = "quantnoon-signal"
+version = "1.0.0"
+description = "Send trading signals to Quantnoon webhook"
+authors = [{ name = "Chidiebere", email = "chinweike89@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = ["requests"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
